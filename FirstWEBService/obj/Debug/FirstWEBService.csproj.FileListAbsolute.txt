@@ -1,0 +1,6 @@
+C:\Users\kapun\source\repos\WebApplication1\FirstWEBService\bin\FirstWEBService.dll.config
+C:\Users\kapun\source\repos\WebApplication1\FirstWEBService\bin\FirstWEBService.dll
+C:\Users\kapun\source\repos\WebApplication1\FirstWEBService\bin\FirstWEBService.pdb
+C:\Users\kapun\source\repos\WebApplication1\FirstWEBService\obj\Debug\FirstWEBService.csproj.CoreCompileInputs.cache
+C:\Users\kapun\source\repos\WebApplication1\FirstWEBService\obj\Debug\FirstWEBService.dll
+C:\Users\kapun\source\repos\WebApplication1\FirstWEBService\obj\Debug\FirstWEBService.pdb
